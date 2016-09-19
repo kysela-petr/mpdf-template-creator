@@ -1,0 +1,9 @@
+{
+	"name": "kysela/mpdf-template-creator",
+	"description": "Create mpdf templates",
+	"type": "project",
+	"license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"require": {
+		"mpdf/mpdf": "v6.0.0"
+	}
+}
