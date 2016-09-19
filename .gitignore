@@ -28,4 +28,3 @@ node_modules/*
 build/*
 vendor/*
 composer.lock
-temp/*
